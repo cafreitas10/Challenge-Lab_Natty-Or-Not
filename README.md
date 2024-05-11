@@ -63,9 +63,10 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 Seguindo a ideia base do desafio foi feito: 
 
--> Uma imagem arte com IA:
-Tecnologia: Stable Diffusion Online
-Prompt: Vector illustration, pop art, very light pastel colored, watercolor, sketch, cardrifting, smoke, burn, 1 car, tuned JDM car, wide fenders, big rims, slammed, drifting:1.2, on the road, tokyo city, parking lot, beautiful landscape
+-> Uma imagem arte com IA: 
+Tecnologia: Stable Diffusion Online 
+Prompt: Vector illustration, pop art, very light pastel colored, watercolor, sketch, cardrifting, smoke, burn, 1 car, tuned JDM car, wide fenders, big rims, slammed, drifting:1.2, on the road, rio de janeiro city, parking lot, beautiful landscape
+
 <div>
   <img align="center" height="300" widht="300" src="/Ideias/Art-Image.jpeg" />
 </div><br>
